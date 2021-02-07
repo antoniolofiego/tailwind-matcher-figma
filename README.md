@@ -18,9 +18,8 @@ Go to the Plugins tab and add this projects `manifest.json`. For more info read 
    $ yarn install
    ```
 
-2. The config offers either a dev or build script
+2. Run the project in dev (for now):
 
    ```sh
    $ yarn dev
-   $ yarn build
    ```
